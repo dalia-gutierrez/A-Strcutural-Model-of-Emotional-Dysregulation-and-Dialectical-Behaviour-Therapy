@@ -1,0 +1,4 @@
+policy,average_welfare,share_treated
+no_training,0.0000,0.000
+universal,14.4334,1.000
+targeted,14.4334,1.000

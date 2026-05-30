@@ -1,0 +1,2 @@
+basin_untreated.dat n=130 min=0.000 max=1.000 mean=0.126 highZ=0.315 lowZ=0.000
+basin_dbt.dat n=130 min=0.000 max=0.000 mean=0.000 highZ=0.000 lowZ=0.000

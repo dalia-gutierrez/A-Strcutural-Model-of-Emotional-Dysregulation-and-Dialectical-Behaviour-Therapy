@@ -1,0 +1,6 @@
+PDF_SIZE=205574 PDF_DATE=2026-05-30 12:40:45.995064900 +0000
+PAGES=7
+grep: latex1.log: No such file or directory
+LATEX_ERRORS=
+grep: latex1.log: No such file or directory
+UNDEFINED_REFS=

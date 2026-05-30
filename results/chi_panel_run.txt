@@ -1,0 +1,6 @@
+panel: 12569 person-waves, 6320 persons, by wave {1: 6111, 2: 3643, 3: 2815}
+  pooled OLS         chi =  0.077  (SE 0.006, n=12569)
+  person FE (within) chi =  0.024  (SE 0.009, n=10144)
+  first differences  chi =  0.012  (SE 0.009, n=6249)
+
+saved chi_panel.json

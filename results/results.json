@@ -1,0 +1,37 @@
+{
+  "exercise_1_welfare": {
+    "mean_consumption_eq_pct": 0.917,
+    "mean_dollars_per_year": 42225.0,
+    "midus_mean_income": 46072.0
+  },
+  "exercise_3_safety_net": [
+    {
+      "c_min": 0.0,
+      "suicide_rate": 0.06
+    },
+    {
+      "c_min": 0.2,
+      "suicide_rate": 0.06
+    },
+    {
+      "c_min": 0.4,
+      "suicide_rate": 0.06
+    },
+    {
+      "c_min": 0.6,
+      "suicide_rate": 0.044
+    },
+    {
+      "c_min": 0.8,
+      "suicide_rate": 0.0
+    }
+  ],
+  "exercise_5_targeting": {
+    "no_training_welfare": 0.0,
+    "universal_welfare": 14.433421951473784,
+    "targeted_welfare": 14.433421951473784,
+    "share_treated": 1.0,
+    "kappa": 0.1,
+    "n_patient_types": 20
+  }
+}

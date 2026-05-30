@@ -1,0 +1,3 @@
+STALE 0
+HEAD 7 CI 4 SUI 1
+RES BUILD.txt CHECK.txt CI.txt FINAL_AUDIT.txt T4_FINAL.txt _basin.txt _basin_check.txt _conv2.txt _finalcheck.txt _g.txt _grepchk.txt _last.txt _pdfchk.txt build_status.txt chi_panel_run.txt results.json results_separable.json table_safety_net.csv table_safety_net_sep.csv table_targeting.csv table_welfare.csv table_welfare_sep.csv
