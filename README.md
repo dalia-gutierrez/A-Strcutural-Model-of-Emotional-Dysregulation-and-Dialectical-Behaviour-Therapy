@@ -18,12 +18,7 @@ bash run_all.sh                    # estimate -> solve -> tables -> bootstrap CI
 ```
 
 Outputs land in `results/` (JSON + CSV) and `figures/` (`.dat` tables for the
-pgfplots figure). To rebuild the PDF you also need a LaTeX distribution with the
-`elsarticle` and `pgfplots` packages:
-
-```bash
-pdflatex DBT && bibtex DBT && pdflatex DBT && pdflatex DBT
-```
+pgfplots figure). 
 
 ---
 
